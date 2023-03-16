@@ -8,7 +8,9 @@ The Irish Centre for High-End Computing (ICHEC) at NUI, Galway is Ireland's nati
 Established in [NUI Galway](https://www.nuigalway.ie/about-us/news-and-events/news-archive/2018/may/ichec-at-nui-galway-unveil-new-supercomputer-for-irish-research-.html) in 2005, ICHEC is hosted by NUI Galway, and accommodated within NUI Galway's College of Science and Engineering and aligned to [NUI Galway's Strategy 2020-2025](http://www.nuigalway.ie/media/strategicplanning/NUI-Galway-Strategy-2020-2025---Shared-Vision,-Shaped-by-Values.pdf). You can read more about ICHEC and NUI Galway [here](https://www.ichec.ie/news/ichec-nui-galway-0).
 
 >The Irish Centre for High-End Computing's core remit is to support Excellence in Science on the national high-performance computer 'Kay'. By supporting the effective use and adoption of HPC and novel technologies across the public sector it contributes to policy development and supports SME growth. ICHEC is also the European HPC Competence Centre for Ireland advancing academic access to European exascale computing and SME exploitation of new technologies.
-J-C Desplat
+
+-- Prof. J-C Desplat, Director, ICHEC
+
 ---
 # About ICHEC
 
